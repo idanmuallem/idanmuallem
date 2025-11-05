@@ -12,9 +12,9 @@ Interested in AI, cognitive systems, and full-stack development.
 ---
 
 ### 💻 Technical Projects
-- **[FlowScope](https://github.com/<idan-myuallem>/FlowScope)** — Chrome extension that tracks focus and productivity using tab switches, idle time, and keystroke metrics.  
-- **[Ataxx AI Agent](https://github.com/<idan-muallem>/Ataxx-Agent)** — Python agent using heuristic search and minimax with alpha-beta pruning.  
-- **[SPLand](https://github.com/<idan-muallem>/SPLand)** — Collaborative Java project demonstrating software design patterns and builder/factory architecture.  
+- **[FlowScope](https://github.com/<idanmuallem>/FlowScope)** — Chrome extension that tracks focus and productivity using tab switches, idle time, and keystroke metrics.  
+- **[Ataxx AI Agent](https://github.com/<idanmuallem>/Ataxx-Agent)** — Python agent using heuristic search and minimax with alpha-beta pruning.  
+- **[SPLand](https://github.com/<idanmuallem>/SPLand)** — Collaborative Java project demonstrating software design patterns and builder/factory architecture.  
 
 ---
 
