@@ -15,7 +15,6 @@ Interested in AI, cognitive systems, and full-stack development.
 - **[FlowScope](https://github.com/<idan-myuallem>/FlowScope)** — Chrome extension that tracks focus and productivity using tab switches, idle time, and keystroke metrics.  
 - **[Ataxx AI Agent](https://github.com/<idan-muallem>/Ataxx-Agent)** — Python agent using heuristic search and minimax with alpha-beta pruning.  
 - **[SPLand](https://github.com/<idan-muallem>/SPLand)** — Collaborative Java project demonstrating software design patterns and builder/factory architecture.  
-- **[Random Motion Game](https://github.com/<idan-muallem>/RandomMotionGame)** — Java OOP game engine with UML design, motion strategies, and JUnit tests.
 
 ---
 
