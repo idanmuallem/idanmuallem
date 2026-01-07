@@ -26,6 +26,6 @@ Interested in AI, cognitive systems, and full-stack development.
 ---
 
 ### 📫 Contact
-- Email: [idan.muallemm@gmail.com](idan.muallem@gmail.com)  
-- LinkedIn: [linkedin](linkedin.com/in/idan-muallem)  
-- GitHub: [github](https://github.com/<idan-muallem>)
+- Email: [idan.muallem@gmail.com](mailto:idan.muallem@gmail.com)
+- LinkedIn: [linkedin.com/in/idan-muallem](https://www.linkedin.com/in/idan-muallem)
+- GitHub: [github.com/idanmuallem](https://github.com/idanmuallem)
