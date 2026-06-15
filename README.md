@@ -41,6 +41,3 @@ I sit at the intersection of AI, cognitive systems, and full-stack developmentâ€
 * **Core Concepts:** Agentic AI, AI Search Algorithms, Data Structures & Algorithms, Neural Computation, Software Design Patterns
 
 ---
-
-### ðŸ“Š GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=idanmuallem&show_icons=true&theme=radical)
